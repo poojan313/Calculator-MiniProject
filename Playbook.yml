@@ -6,3 +6,4 @@
     - name: Docker run on local machine
       docker_image:
         name: poojan31399/miniproject
+        source: pull
