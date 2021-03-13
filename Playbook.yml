@@ -1,6 +1,6 @@
 ---
 - name: Docker Pull and Run
-  hosts: 192.168.43.119
+  hosts: 192.168.43.44
   remote_user: root
   tasks:
     - name: Docker run on local machine
