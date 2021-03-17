@@ -1,0 +1,7 @@
+2021-03-13 14:46:24.197 [main] INFO  Calculator - The square root of 15.0 is: 3.872983346207417
+2021-03-13 14:47:06.000 [main] ERROR Calculator - Number entered to get square root is negative!
+2021-03-13 14:58:38.439 [main] INFO  Calculator - The factorial of10 is: 3628800
+2021-03-13 14:58:50.513 [main] INFO  Calculator - The factorial of10 is: 3628800
+2021-03-13 14:59:04.365 [main] ERROR Calculator - Factorial of a negative number cannot be found!
+2021-03-13 14:59:27.336 [main] INFO  Calculator - The natural log of2.0 is: 0.6931471805599453
+2021-03-13 14:59:40.762 [main] ERROR Calculator - Input to find Nautral Log is Negative!
