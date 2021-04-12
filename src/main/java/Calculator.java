@@ -1,7 +1,9 @@
-import java.util.Scanner;
-import java.io.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import java.util.Scanner;
+import java.io.*;
+
 
 public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
